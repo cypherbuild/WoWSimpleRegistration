@@ -50,17 +50,8 @@ require_once 'header.php'; ?>
                         <?php elang('welcome_message'); ?>
                         <hr style="border-color: #00CCFF;">
                         <p style="text-align: justify">
-                            This is a sample text, This is a sample text, This is a sample text, This is a sample
-                            text, This is a sample text, This is a sample text, This is a sample text, This is a
-                            sample text, This is a sample text, This is a sample text, This is a sample text, This
-                            is a sample text, This is a sample text, This is a sample text, This is a sample text,
-                            This is a sample text, This is a sample text, This is a sample text, This is a sample
-                            text, This is a sample text, This is a sample text, This is a sample text, This is a
-                            sample text, This is a sample text, This is a sample text, This is a sample text, This
-                            is a sample text, This is a sample text, This is a sample text, This is a sample text,
-                            This is a sample text, This is a sample text, This is a sample text, This is a sample
-                            text, This is a sample text, This is a sample text, This is a sample text, This is a
-                            sample text, This is a sample text.
+                            Welcome to maw.gg, take your experience to the next level. We provide an excellent experience for top_players
+                            looking for a great questing / pvp / raiding experience. Build your raid team by unlocking them.
                         </p>
                         <p><?php elang('edit_on'); ?> template/<?php echo $antiXss->xss_clean(get_config("template")); ?>
                             /tpl/main.php</p>
